@@ -1,3 +1,2 @@
 # calculo_media
-
-A new Flutter project.
+- Enzo Santiago de Souza
